@@ -1,0 +1,19 @@
+robotframework==4.1.3
+robotframework-seleniumlibrary==6.0.0
+PyYAML==6.0
+robotframework-debuglibrary==2.2.2
+robotframework-faker==5.0.0
+
+#extensões instaladas
+#Instalar o Pyhon no Windows
+#Python by Microsoft
+#Robot Framework Language Server
+#Robot Framework Intelisense
+#RobotF Extension
+#Cumcuber (Gherkin) Full Support
+#Dracula Official
+#Jupyter
+#Material Icon Theme
+#Path Intelisense
+#Portuguese (Brazil) Language Pack For Visual Studio
+
