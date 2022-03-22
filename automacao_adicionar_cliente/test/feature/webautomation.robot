@@ -8,12 +8,8 @@ Test Teardown   Fechar sessão
 
 
 ****Test Case ***
-Cenario: Pesquisando um produto com sucesso
-    Dado que o cliente esteja na tela do site
-    Quando realizar a pesquisa de um produto
-    Então o produto deve ser apresentado com sucesso
 
-Cenário: Pesquisando um produto inexistente
+Cenário 04: Adicionar cliente
     Dado que o cliente esteja na tela do site
-    Quando realizar a pesquisa do produto       calça
-    Então é apresentado a mensagem de           No results were found for your search "calça"
+    Quando clicar em Singn in, informar email válido, criar conta, preencher dados e submeter cadastro
+    Então conferir se o cadastro foi efetuado com sucesso
