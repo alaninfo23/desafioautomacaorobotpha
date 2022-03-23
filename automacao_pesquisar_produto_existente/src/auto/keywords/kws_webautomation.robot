@@ -19,7 +19,6 @@ Quando realizar a pesquisa do produto
 
     Input Text       ${HOME.SEARCH}           ${produto}
     Click Element    ${HOME.BTN_PESQUISAR}
-
 Então é apresentado a mensagem
     [Arguments]    ${mensagem_erro}
 

@@ -1,16 +1,15 @@
 *** Settings ***
 Documentation       Mapeamento dos elementos da tela 
 
-*** Variable ***
+*** Variables ****
 &{cadastro}
-...     email=js-alan@hotmail.com
-...     nome=Jose Alan
-...     sobrenome=dos Santos Rocha
+...     nome=Fulano Sicrano
+...     sobrenome=da Silva Beltrano
 ...     senha=34226764
-...     endereço=Rua Francisca Santos Martins
+...     endereço=Rua Fulano Sicrano
 ...     numero=150
 ...     bairro=Boa Sorte
-...     cidade=Picos
-...     cep=64607-105
-...     fone=89994418970
+...     cidade=Picos Piaui
+...     cep=00000
+...     fone=89999990000
 ...     referencia=proximo a clinica de urgencia

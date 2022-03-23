@@ -1,7 +1,8 @@
 *** Settings ***
 Documentation   Arquivo de Mapeamento de Arquivos e Bibliotecas
 
-Library    SeleniumLibrary
+Library     SeleniumLibrary
+Library     FakerLibrary
 
 Resource    hooks.robot
 Variables    hooks.yaml
